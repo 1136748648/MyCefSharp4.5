@@ -1,0 +1,150 @@
+SCC = This is a Source Code Control file.
+
+[WMS.PrintSrv.sln]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/IWMS.PrintSrv
+
+[Log.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/IWMS.PrintSrv/Log
+
+[SqliteHelper.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/IWMS.PrintSrv/SqliteHelper
+
+[Utils.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/IWMS.PrintSrv/Utils
+
+[WebApiLib.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/IWMS.PrintSrv/WebApiLib
+
+[WMS.PrintSrv.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/IWMS.PrintSrv/WMS.PrintSrv
+
+[eFastLocalSrv.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/IWMS.PrintSrv/WMS.PrintSrv
+
+[WMS.PrintSrvMgr.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/IWMS.PrintSrv/WMS.PrintSrvMgr
+
+[SCM.sln]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/ThirdDLL/SCM
+
+[SCM.AdminManageModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.AdminManageModule
+
+[SCM.BaseModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.BaseModule
+
+[SCM.BillB2BModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.BillB2BModule
+
+[SCM.BillInModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.BillInModule
+
+[SCM.BillInnerModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.BillInnerModule
+
+[SCM.BizBaseModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.BizBaseModule
+
+[SCM.BLL.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.BLL
+
+[SCM.Caches.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.Caches
+
+[SCM.CommonDataModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.CommonDataModule
+
+[SCM.Core.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.Core
+
+[SCM.DataEntity.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.DataEntity
+
+[SCM.FinancialManage.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.FinancialManage
+
+[SCM.IBLL.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.IBLL
+
+[SCM.IDAL.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.IDAL
+
+[SCM.PeihuoModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.PeihuoModule
+
+[SCM.PrinterDataModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.PrinterDataModule
+
+[SCM.ProduceModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.ProduceModule/BOM/SCM.ProduceModule
+
+[SCM.PurchaseModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.PurchasePlanModule
+
+[SCM.ReportModule.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.ReportModule
+
+[SCM.SQLDAL.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.SQLDAL
+
+[SCM.TimerTask.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.TimerTask
+
+[SCM.TypedData.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.TypedData
+
+[SCM.WcfProxy.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.WcfProxy
+
+[SCM.WcfService.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCM.WcfService
+
+[SCMClientRun.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/SCM/SCMClientRun
+
+[WMS.ServiceTool.sln]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/TempCode/WMS.ServiceTool
+
+[WMS.ServiceAPI.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/TempCode/WMS.ServiceTool/WMS.ServiceAPI
+
+[WMS.ServiceTool.csproj]
+SCC_Aux_Path = 192.168.175.63:8877:开发源码-WMS
+SCC_Project_Name = $/00-主线/10-产品开发/13-产品实现/0-SOURCE/TempCode/WMS.ServiceTool/WMS.ServiceTool
+
