@@ -1,0 +1,16 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+/.vs
+.vs/
+# obj、bin 文件不需要提交
+obj/
+bin/
+*.gitignore
+/.gitignore
+*.log
+*.user
+packages/
+CefSharpClient_D/
+!CefSharpClient_D/x64_49/
+!CefSharpClient_D/x86_49/
